@@ -48,7 +48,18 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg mb-8 text-gray-100 font-bold">
-              I am a Research and Development Engineer at IIT Bhilai,
+              I am a Research and Development Engineer at IIT Bhilai,I currently
+              work under the guidance of{" "}
+              <a
+                href="https://scholar.google.com/citations?user=3El9vwYAAAAJ&hl=en"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-400 underline"
+              >
+                Dr. Gagan Raj Gupta
+              </a>
+              , Associate Professor in the Department of Computer Science and
+              Engineering and Head of the Mechatronics program at IIT Bhilai.
               specializing in Artificial Intelligence (AI), Machine Learning
               (ML), and industrial systems engineering. I hold a B.Tech in
               Computer Science and Engineering, with a strong background in AI,
@@ -73,17 +84,6 @@ export default function Hero() {
                 solving in manufacturing, infrastructure, and intelligent
                 monitoring systems.
               </span>
-              I currently work under the guidance of{" "}
-              <a
-                href="https://scholar.google.com/citations?user=3El9vwYAAAAJ&hl=en"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-400 underline"
-              >
-                Dr. Gagan Raj Gupta
-              </a>
-              , Associate Professor in the Department of Computer Science and
-              Engineering and Head of the Mechatronics program at IIT Bhilai.
               {/* I am a Research and Development Engineer at IIT Bhilai, with a
               B.Tech in Computer Science and Engineering with a strong
               background in AI, NLP, backend engineering. At IIT Bhilai
