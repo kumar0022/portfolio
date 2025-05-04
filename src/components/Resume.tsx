@@ -6,7 +6,7 @@ const ResumeDownload: React.FC = () => {
   const handleDownload = () => {
     const link = document.createElement("a");
     link.href = resumePdf;
-    link.download = "Sunny_Resume.pdf";
+    link.download = "chetan_Resume.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
