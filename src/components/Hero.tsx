@@ -136,7 +136,7 @@ export default function Hero() {
 
             <div className="flex gap-6 mt-8">
               <motion.a
-                href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGYbHa0Mi9kfwAAAZaXGeHQJ_4gDQtHuktjc2_IQlzfjksakQskP30tP2KLYB5mmA4w7iZJDdnr3hYXGvEpF95AbHHpTd1FRk3ySlTWoI_Gk7vnR5u5TZCZuFowBjCV0ntqPOc=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchetan-kumar-b50b2331a"
+                href="https://www.linkedin.com/in/chetan-kumar-b50b2331a"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
