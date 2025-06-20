@@ -13,21 +13,24 @@ const skills = {
     icon: Code2,
     skills: ["Python", "Java", "JavaScript"],
   },
-  "Machine Learning & AI": {
-    icon: Brain,
-    skills: [
-      "ML",
-      "NLP",
+  "Frontend Development": {
+  icon: Code2, // replace with your preferred icon
+  skills: [
+    "ReactJS",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Redux",
+    "Next.js",
+    "Framer Motion",
+    "Material UI",
+  ],
+},
 
-      "PyTorch",
-      "TensorFlow",
-      "Keras",
-      "Scikit-learn",
-      "LangChain",
 
-      "Hugging Face",
-    ],
-  },
   "Backend & Cloud": {
     icon: Server,
     skills: [
@@ -42,6 +45,20 @@ const skills = {
       "InfluxDB",
 
       "Postman",
+    ],
+  },
+    "Machine Learning & AI": {
+    icon: Brain,
+    skills: [
+      "ML",
+      "NLP",
+      "PyTorch",
+      "TensorFlow",
+      "Keras",
+      "Scikit-learn",
+      "LangChain",
+
+      "Hugging Face",
     ],
   },
   "Tools & Libraries": {
