@@ -3,6 +3,22 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
+    title: "AI-Powered Alert System",
+    description:
+      "Designed and implemented a full-stack alert monitoring platform using ReactJS, Flask, and Grafana, integrated with AI models for real-time cobble and failure detection in India's largest steel plant.",
+    details: [
+      
+      "Connected Grafana for real-time sensor data visualization, enabling proactive monitoring and rapid fault detection on the production line..",
+      "Built scalable APIs and alert logic in Flask (Python) to serve AI predictions and anomaly signals from time-series data..",
+      "Enhanced operational decision-making by bridging AI model outputs with real-time plant signals and human feedback..",
+      "Tools & Technologies: ReactJS, Flask, Grafana, Python, Pandas, NumPy, REST APIs, Git.",
+    ],
+    github: "https://github.com/kumar0022/Ai-Powered-_Alert",
+    image: "../assets/image.png",
+  },
+  
+  
+  ,{
     title: "AI-Powered Alert Analysis Dashboard for Rolling Mills",
     description:
       "A Streamlit-based dashboard built in Python to automate alert analysis, identify root causes, and highlight correlated alarm patterns in rolling mill operations.",
@@ -14,7 +30,7 @@ const projects = [
       "Enhanced operational safety and efficiency by supporting early failure detection through data-driven visualization.",
     ],
     github: "https://github.com/kumar0022/analysis_dashboard",
-    image: "../src/assets/alert.png",
+    image: "../assets/alert.png",
   },
 ];
 
