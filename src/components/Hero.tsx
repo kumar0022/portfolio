@@ -79,7 +79,7 @@ export default function Hero() {
               monitoring systems. 🚀 Let’s connect and build smarter, safer
               infrastructures together!
               <span className="text-purple-400 font-extrabold block mt-4">
-                🚀 I am actively open to applied Machine Learning research roles
+                🚀 I am actively open to applied to Full-Stack / Machine Learning research roles
                 in industry — especially those focused on real-world problem
                 solving in manufacturing, infrastructure, and intelligent
                 monitoring systems.
