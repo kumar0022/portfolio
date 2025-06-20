@@ -15,7 +15,7 @@ const projects = [
   ],
   Live_Link : "https://activity-based-learning.vercel.app/",
   github: "https://github.com/kumar0022/Activity_Based_Learning", 
-  image: "../assets/image.png",
+  image: "../assets/Screenshot 2025-01-06 141726.png",
 }
 
   ,{
