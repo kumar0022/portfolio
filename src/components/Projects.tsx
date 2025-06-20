@@ -48,6 +48,22 @@ const projects = [
     github: "https://github.com/kumar0022/analysis_dashboard",
     image: "../assets/alert.png",
   },
+  {
+  title: "Golf Club Website",
+  description:
+    "Developed a responsive and modern website for a golf club to showcase facilities, manage member engagement, and promote golf events and tournaments.",
+  details: [
+    "Designed a visually appealing and user-friendly frontend using ReactJS, JavaScript, and modern CSS for seamless browsing across devices.",
+    "Built components for event listings, membership details, photo galleries, and club announcements to enhance user engagement.",
+    "Focused on smooth navigation, clean UI/UX, and performance optimization to ensure a professional web presence for the golf club.",
+    "Integrated dynamic content routing and reusable components for scalability and maintainability.",
+    "Tools & Technologies: ReactJS, JavaScript, HTML5, CSS3, Git, Vite.",
+  ],
+  Live_Link : "https://golf-orpin.vercel.app/", // update if deployed under a different URL
+  github: "https://github.com/kumar0022/Golf",
+  image: "../assets/golf-website-screenshot.png", // replace with actual image path
+},
+
 ];
 
 export default function Projects() {
