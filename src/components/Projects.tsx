@@ -3,6 +3,22 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
+  title: "Activity-Based Learning Platform",
+  description:
+    "Designed and developed a full-stack educational web platform to help students in grades 6–8 learn complex STEM concepts through simple, interactive activities using React, JavaScript, and TypeScript.",
+  details: [
+    "Created engaging, activity-driven modules to simplify abstract academic topics and improve conceptual understanding for middle school students.",
+    "Implemented a modular frontend using React and TypeScript for smooth user interaction and responsive content delivery.",
+    "Built a scalable backend to manage learning content, quizzes, and progress tracking, enhancing student-teacher interaction.",
+    "Integrated dynamic lesson flows and real-time feedback mechanisms to personalize the learning experience.",
+    "Tools & Technologies: ReactJS, TypeScript, JavaScript, HTML/CSS, Git, REST APIs.",
+  ],
+  Live_Link : "https://activity-based-learning.vercel.app/",
+  github: "https://github.com/kumar0022/Activity_Based_Learning", 
+  image: "../assets/image.png",
+}
+
+  ,{
     title: "AI-Powered Alert System",
     description:
       "Designed and implemented a full-stack alert monitoring platform using ReactJS, Flask, and Grafana, integrated with AI models for real-time cobble and failure detection in India's largest steel plant.",
